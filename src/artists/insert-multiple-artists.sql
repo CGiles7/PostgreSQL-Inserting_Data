@@ -1,0 +1,22 @@
+INSERT
+	INTO
+	artists (first_name, last_name, birthday, is_alive)
+VALUES
+	(
+	 'First',
+      'Artist',
+      '1010-01-01',
+      'true'
+	),
+	(
+	  'Second',
+      'Artist',
+      '0202-02-02',
+      'false'
+	),
+	(
+	  'Third',
+      'Artist',
+      '0303-03-03',
+      'true'
+	);
